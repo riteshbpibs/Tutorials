@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "name": "Ritesh",
+      "contact": 12349,
+      "Address": "Software Engineer",
+      "email": "123@example.com",
+      "id": 2
+    },
+    {
+      "name": "Ritesh",
+      "contact": 12343,
+      "Address": "Software Engineer",
+      "email": "123@example.com",
+      "id": 4
+    },
+    {
+      "name": "Ritesh Raj",
+      "contact": "12345",
+      "Address": "Software Eng.",
+      "email": "123@example.com",
+      "id": 5
+    },
+    {
+      "name": "Ritesh",
+      "contact": 1249,
+      "Address": "Software Engineer",
+      "email": "123@example.com",
+      "id": 6
+    },
+    {
+      "name": "Raj",
+      "email": "123@1.com",
+      "contact": "1231",
+      "Address": "11/21 Patna",
+      "id": 7
+    }
+  ]
+}

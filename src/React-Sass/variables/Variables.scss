@@ -1,0 +1,15 @@
+$blackColor: black;
+$grayColor: gray;
+$titleFont: Arial, Helvetica, sans-serif;
+$bodyFont: "Times New Roman", Times, serif;
+$redColor: red;
+
+@mixin buttonStyle($color, $fontSize) {
+  width: 150px;
+  height: 40px;
+  background-color: $color;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: $fontSize;
+}
